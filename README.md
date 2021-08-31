@@ -23,6 +23,7 @@ bahasa yang gw pake:
 - CSS
 - Java
 - bahasa cinta (lagi blajar)
+- bahasa kalbu (lagi blajar)
 - indonesia
 - inggris
 - jepang (lagi blajar)
