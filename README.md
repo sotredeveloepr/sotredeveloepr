@@ -22,8 +22,6 @@ bahasa yang gw pake:
 - HTML 👍
 - CSS
 - Java
-- bahasa cinta (lagi blajar)
-- bahasa kalbu (lagi blajar)
 - indonesia
 - inggris
 - jepang (lagi blajar)
