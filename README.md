@@ -15,16 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-bahasa yang gw pake:
-- JavaScript
-- C# (lagi blajar)
-- C++ (lagi blajar)
-- HTML 👍
-- CSS
-- Java
-- indonesia
-- inggris
-- jepang (lagi blajar)
-- belanda (lagi blajar)
-
-iya jadi gw blajar bahasa jepang ama blanda biar gw bisa jelek2in mereka pake bahasa mereka, galahcanda, unless 👀
+Saweria: https://saweria.co/blurrymatthew
+pengen beli hosting contabo sg sebulan USD 10
