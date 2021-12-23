@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Saweria: https://saweria.co/blurrymatthew \n
+Saweria: https://saweria.co/blurrymatthew
+
 pengen beli hosting contabo sg sebulan USD 10
