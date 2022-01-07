@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Saweria: https://saweria.co/blurrymatthew
-
-pengen beli hosting contabo sg sebulan USD 10
+Trakteer: https://trakteer.id/blurrymatthew
