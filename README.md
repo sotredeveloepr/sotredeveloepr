@@ -26,7 +26,10 @@ Website: https://sotredeveloepr.github.io/
 
 FrutBits: https://frutbits.xyz/
 
-YouTube: https://www.youtube.com/channel/UCrQEl4wukGaYmIsK85vozog
+YouTube :
+https://www.youtube.com/channel/UCrQEl4wukGaYmIsK85vozog
+https://www.youtube.com/channel/UC08SzDpGm0yOk6enu0HxgLA
+https://www.youtube.com/channel/UCNd3id3yWouFR83ECJ7hTwA
 
 Twitch: https://www.twitch.tv/blurrymatthew
 
