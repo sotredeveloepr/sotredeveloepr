@@ -14,7 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+dia/beliau
 
 Saweria: https://saweria.co/blurrymatthew
 
 Trakteer: https://trakteer.id/blurrymatthew
+
+Mastodon: https://mastodon.social/@blurrymatthew
+
+Website: https://sotredeveloepr.github.io/
+
+FrutBits: https://frutbits.xyz/
+
+YouTube: https://www.youtube.com/channel/UCrQEl4wukGaYmIsK85vozog
+
+Twitch: https://www.twitch.tv/blurrymatthew
+
