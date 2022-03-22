@@ -20,7 +20,8 @@ dia/beliau
 - Trakteer: https://trakteer.id/blurrymatthew
 - Mastodon: https://mastodon.social/@blurrymatthew
 - Website: https://sotredeveloepr.github.io
-- FrutBits: https://frutbits.xyz
+- FrutBits Revolt Server: https://app.revolt.chat/invite/9SeABAV8
+- FrutBits Website: https://frutbits.xyz
 - YouTube :
   - https://www.youtube.com/channel/UCrQEl4wukGaYmIsK85vozog
   - https://www.youtube.com/channel/UC08SzDpGm0yOk6enu0HxgLA
