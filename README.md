@@ -28,3 +28,4 @@ dia/beliau
 - Twitch: https://www.twitch.tv/blurrymatthew
 - Instagram: https://www.instagram.com/blurrymatthew/
 - TikTok: https://www.tiktok.com/@blurrymatthew
+- Pixelfed: https://pixels.daspr.io/blurrymatthew
