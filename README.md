@@ -26,3 +26,5 @@ dia/beliau
   - https://www.youtube.com/channel/UC08SzDpGm0yOk6enu0HxgLA
   - https://www.youtube.com/channel/UCNd3id3yWouFR83ECJ7hTwA
 - Twitch: https://www.twitch.tv/blurrymatthew
+- Instagram: https://www.instagram.com/blurrymatthew/
+- TikTok: https://www.tiktok.com/@blurrymatthew
