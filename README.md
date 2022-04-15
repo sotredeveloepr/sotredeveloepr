@@ -30,3 +30,4 @@ dia/beliau
 - Instagram: https://www.instagram.com/blurrymatthew/
 - TikTok: https://www.tiktok.com/@blurrymatthew
 - Pixelfed: https://pixels.daspr.io/blurrymatthew
+- KamuTube: https://kamutube.frutbits.xyz/c/blurrymatthew_channel
